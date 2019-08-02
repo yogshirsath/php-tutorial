@@ -1,0 +1,23 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogshirsath/php-tutorial.git"
+  },
+  "author": "Yogesh Shirsath",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/yogshirsath/php-tutorial/issues"
+  },
+  "homepage": "https://github.com/yogshirsath/php-tutorial#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
